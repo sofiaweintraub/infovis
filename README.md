@@ -1,3 +1,3 @@
 # infovis
-##TPs
+## TPs
 [hola mundo] (https://sofiaweintraub.github.io/infovis/index.html)
