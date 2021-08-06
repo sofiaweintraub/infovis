@@ -1,2 +1,10 @@
-
-
+Protovis
+Stacked Graphs
+Horizon Graphs
+Q-Q Plots
+Scatter Plot Matrix (SPLOM)
+Node-Link Diagrams
+Adjacency Diagrams
+Arc Diagrams
+seriation
+Squarified treemaps
